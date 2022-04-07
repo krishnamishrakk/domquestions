@@ -11,8 +11,8 @@
 // }
 // let res;
 // let child={
-//     name:"akarsh gupta",
-//     lives:'kanpur'
+//     name:"krishna mishra",
+//     lives:'satna'
 // }
 // child.__proto__=parent;
 // console.log(child.mode);
@@ -41,12 +41,12 @@
    
 
 // let obj2={
-//     names:'ayush',
-//     lives:'kanpur'
+//     names:'kk',
+//     lives:'mp'
 // }
 // let obj3={
-//     names:'aryan',
-//     lives:'lucknow'
+//     names:'harsh',
+//     lives:'rewa'
 // }
 
 // obj2.__proto__=obj1
